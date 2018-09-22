@@ -1,0 +1,55 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+body
+{
+background-image:linear-gradient( rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+url(tourism.jpg);
+height:100vh;
+background-position: centre;
+background-size: cover
+}
+
+.main-nav
+{
+float: right;
+list-style: none;
+margin-top: 30px;
+}
+.main-nav li {
+    display: inline-block;
+}
+.main-nav li a
+{
+    color: rgb(63, 243, 8);
+text-decoration: green;
+    padding: 10px 20px;
+    font-family: "robot", sans-serif;
+
+    font-size: 13px;
+    
+}
+.main-nav li
+{
+    border: 3px solid rgb(10, 6, 243);
+}
+.main-nav li a:hover
+{
+    border: 3px silid rgb(26, 11, 238);
+}
+form
+{
+    background-color: lime;
+    position: fixed; left:80%; top:10%;
+}
+div>h1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+position: fixed; left:80px; top:80px;
+color: rgb(9, 248, 21);
+     
+}

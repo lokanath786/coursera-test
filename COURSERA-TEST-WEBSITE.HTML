@@ -1,0 +1,28 @@
+<!doctype html>
+<html><head>
+        <meta charset="UTF-8">
+        <title>coursera-test-website</title>
+        <link href="style.css" rel="stylesheet" type="text/css">
+
+
+</head>
+<body>
+<header>
+
+<div class="row">
+<ul class="main-nav">
+<li class="active"><a href="">HOME<a></li>
+<li class="active"><a href="">SERVICES<a></li>
+        <li class="active"><a href="">UPDATES<a></li>
+                <li class="active"><a href="">CONTACTS<a></li>
+</ul>
+</div>
+<form action="https://www.google.com/search" method="GET">
+<input type="text" name="q" placeholder="google search">
+<input type="submit" value="google search"> </form>
+<div>
+        <h1>"Hello world!" <br>
+        "This is my first website for coursera, hope you guys like it.if you like it then please place your review and rate it."</h1>
+</div>
+</header></body>
+</html>
